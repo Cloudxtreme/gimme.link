@@ -1,0 +1,23 @@
+{
+	"name": "gimme.link",
+	"description": "URL Shortener using Amazon Route 53",
+	"version": "1.0.0",
+	"maintainers": [
+		{
+			"name": "Ryan Draga",
+			"email": "ryan.draga@tuxotaku.com",
+			"web": "https://tuxotaku.com"
+		}
+	],
+	"dependencies": {
+		"https://www.npmjs.org/package/aws-sdk": "2.0.28",
+		"https://www.npmjs.org/package/chance": "0.6.1"
+	},
+	"licenses": [
+		{
+			"name": "GPLv2",
+			"url": "https://gnu.org/licenses/gpl.html"
+		}
+	],
+	"homepage": "https://github.com/TuxOtaku/gimme.link"
+}
